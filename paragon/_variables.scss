@@ -1,8 +1,37 @@
-// Use this file to set SASS variables for @edx/paragon
-// See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
-// $primary: #15376D;
-// $primary-light: #f6decd;
-// $light: #f6decd;
-// $dark: #273F2F;
-// $white: #FFEFF4;
-// $gray: #528dc5;
+$primary: {{ SKILLSENSE_PRIMARY_COLOR }};
+$primary-light: #E1EAF9;
+
+
+// Theme fonts
+$font-family-title: 'Inter', sans-serif;;
+$serif: Crimson;
+$f-sans-serif: Crimson, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+// Initialize the Open edX Bootstrap theme
+@import 'edx-bootstrap/sass/open-edx/theme';
+
+
+// Introducing new variables
+
+$dark: #172B4C;
+$light-dark: #0052CC;
+$big-screen: 1200px;
+
+
+
+// Introducing dark-theme variables
+
+$primary-d: #E1EAF9;
+$primary-light-d: #172B4C;
+$light-drak-d: #E1EAF9;
+$text-color-d: #F8F8F8;
+$text-color-primary: #DDDFE2;
+$border-color-d: #777792;
+$light-overlay-d: #36383B;
+$danger-d: #FF562F;
+$success-d: #04A08B;
+$btn-color-d: #112F6B;
+$body-bg-d:#0052CC;
+
+$warning-400: #FF9920;
+$page-color-transition: transparent .2s ease, color .2s ease;
