@@ -1,5 +1,8 @@
-$primary: {{ SKILLSENSE_PRIMARY_COLOR }};
-$primary-light: #E1EAF9;
+$primary: #15376D;
+$primary-light-skillsense: #F2F7F8;
+$body-bg-skillsense:#E1EAF9;
+$header-bg-skillsense:#D1F5F0;
+$primary-light-skillsense-skillsense: #E9EDF2;
 
 
 // Theme fonts
@@ -31,7 +34,7 @@ $light-overlay-d: #36383B;
 $danger-d: #FF562F;
 $success-d: #04A08B;
 $btn-color-d: #112F6B;
-$body-bg-d:#0052CC;
+$body-bg-d:#D1F5F0;
 
 $warning-400: #FF9920;
 $page-color-transition: transparent .2s ease, color .2s ease;
