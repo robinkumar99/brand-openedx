@@ -1,40 +1,40 @@
-$primary: #15376D;
-$primary-light-skillsense: #F2F7F8;
-$body-bg-skillsense:#E1EAF9;
-$header-bg-skillsense:#D1F5F0;
-$primary-light-skillsense-skillsense: #E9EDF2;
+// $primary: #15376D;
+// $primary-light-skillsense: #F2F7F8;
+// $body-bg-skillsense:#E1EAF9;
+// $header-bg-skillsense:#D1F5F0;
+// $primary-light-skillsense-skillsense: #E9EDF2;
 
 
-// Theme fonts
-$font-family-title: 'Inter', sans-serif;;
-$serif: Crimson;
-$f-sans-serif: Crimson, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
-// Initialize the Open edX Bootstrap theme
-@import 'edx-bootstrap/sass/open-edx/theme';
+// // Theme fonts
+// $font-family-title: 'Inter', sans-serif;;
+// $serif: Crimson;
+// $f-sans-serif: Crimson, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+// @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+// // Initialize the Open edX Bootstrap theme
+// @import 'edx-bootstrap/sass/open-edx/theme';
 
 
-// Introducing new variables
+// // Introducing new variables
 
-$dark: #172B4C;
-$light-dark: #0052CC;
-$big-screen: 1200px;
+// $dark: #172B4C;
+// $light-dark: #0052CC;
+// $big-screen: 1200px;
 
 
 
-// Introducing dark-theme variables
+// // Introducing dark-theme variables
 
-$primary-d: #E1EAF9;
-$primary-light-d: #172B4C;
-$light-drak-d: #E1EAF9;
-$text-color-d: #F8F8F8;
-$text-color-primary: #DDDFE2;
-$border-color-d: #777792;
-$light-overlay-d: #36383B;
-$danger-d: #FF562F;
-$success-d: #04A08B;
-$btn-color-d: #112F6B;
-$body-bg-d:#D1F5F0;
+// $primary-d: #E1EAF9;
+// $primary-light-d: #172B4C;
+// $light-drak-d: #E1EAF9;
+// $text-color-d: #F8F8F8;
+// $text-color-primary: #DDDFE2;
+// $border-color-d: #777792;
+// $light-overlay-d: #36383B;
+// $danger-d: #FF562F;
+// $success-d: #04A08B;
+// $btn-color-d: #112F6B;
+// $body-bg-d:#D1F5F0;
 
-$warning-400: #FF9920;
-$page-color-transition: transparent .2s ease, color .2s ease;
+// $warning-400: #FF9920;
+// $page-color-transition: transparent .2s ease, color .2s ease;
